@@ -104,10 +104,10 @@ async def about_handler(bot, message):
             photo="https://graph.org/file/ff7ae087026e5473bb341.jpg",
             caption="""<b>sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs😜</b>
 
-<b>╭━━━━━━━〔𝗙𝗜𝗟𝗘 𝗧𝗢 𝗟𝗜𝗡𝗞 𝗕𝗢𝗧〕</b>
+<b>╭━━━━━━━〔𝙁𝙄𝙇𝙀 𝙏𝙊 𝙇𝙄𝙉𝙆 𝘽𝙊𝙏〕</b>
 ┃
 ┣⪼<b>𝗕𝗢𝗧 𝗡𝗔𝗠𝗘 : 𝗙𝗜𝗟𝗘 𝗧𝗢 𝗟𝗜𝗡𝗞
-┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/botsbynjboi>𝗕𝗢𝗧𝗦 𝗕𝗬 𝗡𝗝 𝗕𝗢𝗜</a></b>
+┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/botsbynjboi'>𝗕𝗢𝗧𝗦 𝗕𝗬 𝗡𝗝 𝗕𝗢𝗜</a></b>
 ┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/neymar_boi'>𝗦𝗨𝗣𝗣𝗢𝗥𝗧</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
