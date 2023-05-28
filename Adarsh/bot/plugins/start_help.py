@@ -29,7 +29,7 @@ async def start(b, m):
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 ⚡", url="https://t.me/botsbynjboi"), InlineKeyboardButton("📺 𝐌𝐎𝐕𝐈𝐄𝐒 📺", url="https://t.me/movierequestgroupNj)],
+                    [InlineKeyboardButton("⚡ 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 ⚡", url="https://t.me/botsbynjboi"), InlineKeyboardButton("📺 𝐌𝐎𝐕𝐈𝐄𝐒 📺", url="https://t.me/movierequestgroupNj")],
                     
                 ]
             ),
